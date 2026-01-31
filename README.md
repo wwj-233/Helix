@@ -1,6 +1,6 @@
 # Helix
 
-> **Demo Project** - An AI pair programming desktop application built with [kimi-agent-sdk](https://github.com/moonshot-ai/kimi-cli)
+> **Demo Project** - An AI pair programming desktop application built with [kimi-agent-sdk](https://github.com/MoonshotAI/kimi-agent-sdk)
 
 <p align="center">
   <img src="resources/icon.png" width="128" height="128" alt="Helix Logo">
@@ -30,7 +30,7 @@ This project is created to:
 
 - **Node.js** 18+ and npm
 - **Python** 3.10+
-- **Kimi API Key** - Get yours at [platform.moonshot.cn](https://platform.moonshot.cn/)
+- **Kimi API Key** - Get yours at [platform.moonshot.ai](https://platform.moonshot.ai/)
 
 ### Installation
 
@@ -86,7 +86,7 @@ npm run dist:linux  # For Linux
 
 ### API Key Setup
 
-1. Visit [Kimi Platform](https://platform.moonshot.cn/) to get your API key
+1. Visit [Kimi Platform](https://platform.moonshot.ai/) to get your API key
 2. Open Helix Settings (⚙️ icon or Cmd+,)
 3. Enter your API Key and select model (default: kimi-k2.5)
 
@@ -131,7 +131,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## 🙏 Acknowledgments
 
-- Built with [kimi-agent-sdk](https://github.com/moonshot-ai/kimi-cli) by Moonshot AI
+- Built with [kimi-agent-sdk](https://github.com/MoonshotAI/kimi-agent-sdk) by Moonshot AI
 - Powered by [Kimi K2.5](https://platform.moonshot.cn/) model
 - Inspired by the concept of AI pair programming
 
