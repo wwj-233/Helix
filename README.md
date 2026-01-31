@@ -2,9 +2,7 @@
 
 > **Demo Project** - An AI pair programming desktop application built with [kimi-agent-sdk](https://github.com/MoonshotAI/kimi-agent-sdk)
 
-<p align="center">
-  <img src="resources/icon.png" width="128" height="128" alt="Helix Logo">
-</p>
+
 
 Helix is a demonstration project showcasing the capabilities of **kimi-agent-sdk**. It provides a desktop interface for AI-assisted coding, file management, and project collaboration using the **Kimi K2.5** model.
 
