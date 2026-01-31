@@ -28,7 +28,7 @@ This project is created to:
 
 - **Node.js** 18+ and npm
 - **Python** 3.10+
-- **Kimi API Key** - Get yours at [platform.moonshot.ai](https://platform.moonshot.ai/)
+- **Kimi API Key** - Get yours at [platform.moonshot.cn](https://platform.moonshot.cn/)
 
 ### Installation
 
@@ -84,7 +84,7 @@ npm run dist:linux  # For Linux
 
 ### API Key Setup
 
-1. Visit [Kimi Platform](https://platform.moonshot.ai/) to get your API key
+1. Visit [Kimi Platform](https://platform.moonshot.cn/) to get your API key
 2. Open Helix Settings (⚙️ icon or Cmd+,)
 3. Enter your API Key and select model (default: kimi-k2.5)
 
