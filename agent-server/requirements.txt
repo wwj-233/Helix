@@ -1,0 +1,6 @@
+kimi-agent-sdk
+fastapi
+uvicorn
+pydantic
+python-dotenv
+websockets
